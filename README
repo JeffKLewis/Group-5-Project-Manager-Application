@@ -1,0 +1,23 @@
+This repository contains the project work for Group 5's Project Manager application.
+
+Group 5 Team Members:
+- Jeff Krejcik
+- John Caputo
+
+
+Included Resources:
+Manual - Project Manager Project Manual (docx and pdf)
+Data Model - Data Model Image
+Data Model - MS Access Database (source of data model image, for reference only)
+Data Model - SQL Table Creation Queries
+Node Diagram - Xmind File With Revised Node Diagram
+UI Mockups - User Interface Mockups
+Feature List - Status List of All Features
+Test Plan - Manual Test Cases
+Application - Application Project File (very limited progress)
+
+
+Other Notes:
+As discussed in the Project Manual, our team lost half of its members early on.
+Due to this, the application itself is only a shell.  Significant development work is still needed.
+Our efforts were instead dedicated to the planning and design work for this application.
